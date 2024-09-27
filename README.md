@@ -40,11 +40,11 @@ Exploiting Vulnerable Machines: Through controlled exercises, learn to assess, p
 
 Ports with outdated services often host vulnerabilities
 
--sC Stands for Scripting helps check all vulnerable and exposed ports
+ -sC Stands for Scripting helps check all vulnerable and exposed ports
 
--sV Stands for Version helps us check if its outdated 
+ -sV Stands for Version helps us check if its outdated 
 
-nmap-h Stands for help and it gives a list of all possible commands
+ -nmap-h Stands for help and it gives a list of all possible commands
 
 
 
@@ -54,9 +54,9 @@ nmap-h Stands for help and it gives a list of all possible commands
 ![Screenshot 2024-09-28 002442](https://github.com/user-attachments/assets/134f46c6-80ea-4f09-8268-03afae5ef105)
 
 
-Google Dorking is an effective way to enhace searches
+ Google Dorking is an effective way to enhace searches
 
-Sites like Rapid7 and exploit.db act as powerfull tools
+ Sites like Rapid7 and exploit.db act as powerfull tools
 
 
 
@@ -67,11 +67,11 @@ Sites like Rapid7 and exploit.db act as powerfull tools
 ![Screenshot 2024-09-28 003822](https://github.com/user-attachments/assets/57eb754b-1eb8-4556-be70-703e706c6019)
 
 
-msfconsole is the command used to start up metasploit
+ The msfconsole is the command used to start up metasploit
 
-help command gives a complete detail of every command and their discriptions
+ The help command gives a complete detail of every command and their discriptions
 
-exit command is used to exit metasploit
+ The exit command is used to exit metasploit
 
 
 
@@ -80,9 +80,9 @@ exit command is used to exit metasploit
  
 ![Screenshot 2024-09-28 005012](https://github.com/user-attachments/assets/6720e3c4-c8f4-46d9-bd78-ea10b3a70189)
 
-made us of show options command and search command 
+ The show options command and search command were essential to uncover all desired vulnerabilities 
 
-use 0 command is used to exploit the payload
+ Use 0 command is used to exploit the payload
 
 
 - Step 5: Load Your First Metasploit Module
@@ -90,11 +90,11 @@ use 0 command is used to exploit the payload
 ![Screenshot 2024-09-28 005825](https://github.com/user-attachments/assets/1cc33b4b-833e-486d-9da6-e2bfe9526856)
 
 
-show displays the current configuration of the module
+ show displays the current configuration of the module
 
-rhost is the victim machine
+ rhost is the victim machine
 
-rport is the port we are attacking
+ rport is the port we are attacking
 
 we set the rhost to the ip address of the metasploitable module
 
@@ -106,12 +106,12 @@ we set the rhost to the ip address of the metasploitable module
 
 
 
-Created a backdoor account using the adduser command
+ Created a backdoor account using the adduser command
 
-Allows us to easily get back into the machine without the need of the long metasploit
-process
+ Allows us to easily get back into the machine without the need of the long metasploit
+ process
 
-As a blue team monitoring for unauthorized accounts is essenrtial
+ As a blue team monitoring for unauthorized accounts is essenrtial
 
 
 - Step 7: Create a Penetration Testing Report
@@ -123,6 +123,6 @@ As a blue team monitoring for unauthorized accounts is essenrtial
 ![Screenshot 2024-06-06 223136](https://github.com/user-attachments/assets/f68affe6-f2ca-41c4-9d22-ddd7236215b3)
 
 
-A pen testing report should always include scope, findings and remediation steps 
-
-the severity was measured with the help of CVSS
+ A pen testing report should always include scope, findings and remediation steps 
+ 
+ The severity was measured with the help of CVSS
