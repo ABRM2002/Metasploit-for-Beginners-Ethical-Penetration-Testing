@@ -32,7 +32,7 @@ Exploiting Vulnerable Machines: Through controlled exercises, learn to assess, p
 
 ### Steps
 
-- Step 1:Use Nmap to Scan for Vulnerable Services
+## Step 1:Use Nmap to Scan for Vulnerable Services
 
 
 ![Screenshot 2024-09-27 235513](https://github.com/user-attachments/assets/e8d7a855-ad48-48be-bc2b-dd20a24d476f)
@@ -48,7 +48,7 @@ Ports with outdated services often host vulnerabilities
 
 
 
-- Step 2: Perform  Vulnerability Research
+## Step 2: Perform  Vulnerability Research
 
 
 ![Screenshot 2024-09-28 002442](https://github.com/user-attachments/assets/134f46c6-80ea-4f09-8268-03afae5ef105)
@@ -60,7 +60,7 @@ Ports with outdated services often host vulnerabilities
 
 
 
-- Step 3: Perform More Active Reconaissance
+## Step 3: Perform More Active Reconaissance
 
 
 
@@ -75,7 +75,7 @@ Ports with outdated services often host vulnerabilities
 
 
 
-- Step 4: Intro To Metasploit
+## Step 4: Intro To Metasploit
 
  
 ![Screenshot 2024-09-28 005012](https://github.com/user-attachments/assets/6720e3c4-c8f4-46d9-bd78-ea10b3a70189)
@@ -85,7 +85,8 @@ Ports with outdated services often host vulnerabilities
  Use 0 command is used to exploit the payload
 
 
-- Step 5: Load Your First Metasploit Module
+
+## Step 5: Load Your First Metasploit Module
 
 ![Screenshot 2024-09-28 005825](https://github.com/user-attachments/assets/1cc33b4b-833e-486d-9da6-e2bfe9526856)
 
@@ -99,7 +100,7 @@ Ports with outdated services often host vulnerabilities
 we set the rhost to the ip address of the metasploitable module
 
 
-- Step 6: Exploit a Vulnerable Machine
+## Step 6: Exploit a Vulnerable Machine
 
 
 ![Screenshot 2024-09-28 011622](https://github.com/user-attachments/assets/f5c1a14b-c630-4598-a249-7c71141cbd05)
@@ -114,7 +115,9 @@ we set the rhost to the ip address of the metasploitable module
  As a blue team monitoring for unauthorized accounts is essenrtial
 
 
-- Step 7: Create a Penetration Testing Report
+
+
+## Step 7: Create a Penetration Testing Report
 
 
 ![Screenshot 2024-06-06 223055](https://github.com/user-attachments/assets/d3ad1733-4e03-4699-9f24-e69e85379278)
@@ -126,3 +129,7 @@ we set the rhost to the ip address of the metasploitable module
  A pen testing report should always include scope, findings and remediation steps 
  
  The severity was measured with the help of CVSS
+
+
+
+![Metasploit for Beginners Ethical Penetration_page-0001](https://github.com/user-attachments/assets/bca29a04-33f9-4b00-bd37-c0019a42f25a)
