@@ -32,7 +32,7 @@ Exploiting Vulnerable Machines: Through controlled exercises, learn to assess, p
 
 ### Steps
 
-## Step 1:Use Nmap to Scan for Vulnerable Services
+## Step 1: Use Nmap to Scan for Vulnerable Services
 
 
 ![Screenshot 2024-09-27 235513](https://github.com/user-attachments/assets/e8d7a855-ad48-48be-bc2b-dd20a24d476f)
@@ -131,5 +131,6 @@ we set the rhost to the ip address of the metasploitable module
  The severity was measured with the help of CVSS
 
 
+Certificate:-
 
 ![Metasploit for Beginners Ethical Penetration_page-0001](https://github.com/user-attachments/assets/bca29a04-33f9-4b00-bd37-c0019a42f25a)
