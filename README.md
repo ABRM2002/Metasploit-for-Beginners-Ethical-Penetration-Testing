@@ -1,6 +1,6 @@
 # Metasploit-for-Beginners-Ethical-Penetration-Testing
 
-## Objective
+## Objective:-
 
 The Metasploit-for-Beginners-Ethical-Penetration-Testing is a guided project offered by coursera which has guided me to acquire immense knowledge about the following objectives:-
 
@@ -11,26 +11,26 @@ Nmap Scanning: Master the art of network discovery with Nmap, a pivotal tool for
 Exploiting Vulnerable Machines: Through controlled exercises, learn to assess, penetrate, and secure vulnerable systems. Engage with real-world scenarios, where you will practice identifying and exploiting vulnerabilities safely within a lab environment.
 
 
-### Skills Learned
+## Skills Learned:-
 
 - Utilize an exploit using Metasploit to gain access to a vulnerable system.
 - Perform a Vulnerability Scan Analysis to enable effective vulnerability reporting.
 - Author comprehensive penetration testing reports with results that will enable a company to fix their vulnerabilities.   
 
-### Tools Used
+## Tools Used:-
 
 - Metasploit Framework: A penetration testing tool used to identify and leverage weaknesses in system security.
 - Nmap: Powerful tool for scanning vulnerable systems.
 
 
-#### What you will need:
+## What you will need:-
 
 1. VMWare or Virtual Box
 2. Kali Linux OS [Attacking Machine]
 3. A metasploitable 2 Machine [Victim Machine]
 4. Knowledge of basic linux commands
 
-### Steps
+# Steps
 
 ## Step 1: Use Nmap to Scan for Vulnerable Services
 
@@ -116,7 +116,6 @@ we set the rhost to the ip address of the metasploitable module
 
 
 
-
 ## Step 7: Create a Penetration Testing Report
 
 
@@ -131,6 +130,6 @@ we set the rhost to the ip address of the metasploitable module
  The severity was measured with the help of CVSS
 
 
-Certificate:-
+# Certificate:-
 
 ![Metasploit for Beginners Ethical Penetration_page-0001](https://github.com/user-attachments/assets/bca29a04-33f9-4b00-bd37-c0019a42f25a)
