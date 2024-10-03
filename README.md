@@ -30,6 +30,8 @@ Exploiting Vulnerable Machines: Through controlled exercises, learn to assess, p
 3. A metasploitable 2 Machine [Victim Machine]
 4. Knowledge of basic linux commands
 
+---
+
 # Steps
 
 ## Step 1: Use Nmap to Scan for Vulnerable Services
@@ -46,7 +48,7 @@ Ports with outdated services often host vulnerabilities
 
  -nmap-h Stands for help and it gives a list of all possible commands
 
-
+---
 
 ## Step 2: Perform  Vulnerability Research
 
@@ -58,7 +60,7 @@ Ports with outdated services often host vulnerabilities
 
  Sites like Rapid7 and exploit.db act as powerfull tools
 
-
+---
 
 ## Step 3: Perform More Active Reconaissance
 
@@ -73,7 +75,7 @@ Ports with outdated services often host vulnerabilities
 
  The exit command is used to exit metasploit
 
-
+---
 
 ## Step 4: Intro To Metasploit
 
@@ -84,7 +86,7 @@ Ports with outdated services often host vulnerabilities
 
  Use 0 command is used to exploit the payload
 
-
+---
 
 ## Step 5: Load Your First Metasploit Module
 
@@ -99,6 +101,7 @@ Ports with outdated services often host vulnerabilities
 
 we set the rhost to the ip address of the metasploitable module
 
+---
 
 ## Step 6: Exploit a Vulnerable Machine
 
@@ -114,7 +117,7 @@ we set the rhost to the ip address of the metasploitable module
 
  As a blue team monitoring for unauthorized accounts is essenrtial
 
-
+---
 
 ## Step 7: Create a Penetration Testing Report
 
@@ -129,6 +132,7 @@ we set the rhost to the ip address of the metasploitable module
  
  The severity was measured with the help of CVSS
 
+---
 
 # Certificate:-
 
